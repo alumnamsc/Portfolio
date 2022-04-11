@@ -16,7 +16,7 @@ export class BotonComponent implements OnInit {
   }
 
   onClick(){
-    
+
   }
 
   

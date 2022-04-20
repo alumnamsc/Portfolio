@@ -1,0 +1,8 @@
+.seccion-2 {
+    border: black 3px solid;
+    overflow: auto;
+}
+
+img {
+    float: left;
+}

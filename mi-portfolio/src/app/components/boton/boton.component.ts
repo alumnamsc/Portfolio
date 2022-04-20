@@ -8,8 +8,6 @@ import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 export class BotonComponent implements OnInit {
   @Input() text: string = "";
   @Output() btnClick = new EventEmitter();
-
-
   
   constructor() { }
 
@@ -19,7 +17,5 @@ export class BotonComponent implements OnInit {
   onClick(){
 
   }
-  onClick2(){
-    
-  }
+
 }

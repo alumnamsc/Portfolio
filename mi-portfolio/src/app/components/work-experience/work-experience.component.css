@@ -1,8 +1,22 @@
-.seccion-2 {
-    border: black 3px solid;
-    overflow: auto;
-}
-
 img {
     float: left;
+    margin-right: 20px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+p{
+    margin-bottom: 20px;  
 }
